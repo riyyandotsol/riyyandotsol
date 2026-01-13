@@ -16,7 +16,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/riyyandotsol/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riyyandoteth" height="30" width="40" /></a>
 
-<a href="http://discordapp.com/users/1176921917442236541" target="blank"><img align="center" src="https://user-images.githubusercontent.com/34899572/216776599-335c40a0-8b43-46f7-a547-8a31da83de54.png" alt="rayyanjb00" height="40" width="40" /></a>
+<a href="https://discordapp.com/users/1451452104991440940" target="blank"><img align="center" src="https://user-images.githubusercontent.com/34899572/216776599-335c40a0-8b43-46f7-a547-8a31da83de54.png" alt="rayyanjb00" height="40" width="40" /></a>
 </p>
 
 
